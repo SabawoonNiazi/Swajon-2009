@@ -22,5 +22,5 @@
 
 😈 cd Swajon-2009
 
-😈 python2 old_enc.py
+😈 python Swajon-2009.py
 ![Screenshot_2022-05-19-19-54-43-983_com termux](https://user-images.githubusercontent.com/91185222/169310635-5ab34933-a60f-422a-b973-bfea5aee2c19.jpg)
