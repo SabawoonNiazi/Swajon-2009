@@ -16,6 +16,8 @@
 
 😈 pkg install git
 
+😈 rm -rf Swajon-2009
+
 😈 git clone https://github.com/SwajonAhmedofficial/Swajon-2009
 
 😈 cd Swajon-2009
